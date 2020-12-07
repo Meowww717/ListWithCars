@@ -1,0 +1,18 @@
+.deleteIcon {
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+
+.deleteIcon > button img {
+    width: 24px;
+    height: 24px;
+}
+
+.table-light:nth-child(2n)>* {
+    background-color: #3498db;
+}
+
+.table-light:nth-child(2n):hover>* {
+    background-color: #258cd1 !important;
+}
