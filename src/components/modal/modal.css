@@ -1,0 +1,13 @@
+.show {
+    display: block;
+}
+
+.modal-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.modal-body input, .modal-body select {
+    margin-left: 7px;
+}
