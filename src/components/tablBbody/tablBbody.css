@@ -1,0 +1,16 @@
+table thead td:last-child, table tbody tr td:last-child {
+    text-align: center;
+}
+
+table {
+    font-size: 1.5rem;
+}
+
+thead th {
+    cursor: pointer;
+}
+
+.addButton {
+    margin-top: 15px;
+    font-size: 1.5rem;
+}
